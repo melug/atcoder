@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"module": "CommonJS",
+		"noUnusedLocals": false,
+		"noUnusedParameters": false,
+		"outDir": "output",
+		"target": "ES5",
+		"types": [
+			"node"
+		]
+	},
+	"include": [
+		"src/*"
+	]
+}
